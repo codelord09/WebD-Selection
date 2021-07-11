@@ -17,8 +17,8 @@ Click on Precautions to redirect to precaution page.
 PS: One can go from Home, Precaution, About as they are different pages,
     Contact, Vaccination, Data are the section that can be accessed on only from Home page :-(
     
-![Vaccinaton](https://user-images.githubusercontent.![Contact](https://user-images.githubusercontent.com/75887293/125202390-06f84000-e291-11eb-81de-4d01ec879283.jpg)
-com/75887293/125202301-a23ce580-e290-11eb-9005-e2f62514f619.jpg)
+![Vaccinaton](https://user-images.githubusercontent.com/75887293/125213393-e8656980-e2cf-11eb-88b1-694c00b5e61d.jpg)
+
 
 Click on Read More to get redirected to official https://www.mohfw.gov.in/ page to get realtime data on Vaccination
 
