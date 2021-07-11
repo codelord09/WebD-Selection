@@ -22,7 +22,7 @@ com/75887293/125202301-a23ce580-e290-11eb-9005-e2f62514f619.jpg)
 
 Click on Read More to get redirected to official https://www.mohfw.gov.in/ page to get realtime data on Vaccination
 
-![Contact](https://user-images.githubusercontent.com/75887293/125202405-111a3e80-e291-11eb-8668-faaec795faa3.jpg)![About](https://user-
+![Contact](https://user-images.githubusercontent.com/75887293/125202405-111a3e80-e291-11eb-8668-faaec795faa3.jpg)
 
 Fill Respective field, and get your response get recorded on my google sheet
 
